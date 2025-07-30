@@ -1,16 +1,48 @@
-## Hi there 👋
+<!-- Banner opcional -->
+<h1 align="center">Oi! Eu sou o Victor 👋</h1>
 
-<!--
-**Victor-Picciutti/Victor-Picciutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🔍 Estudante de desenvolvimento com foco em C# <br>
+  🎯 Buscando oportunidades como Jovem Aprendiz ou Estagiário em tecnologia <br>
+  🚀 Apaixonado por aprender, resolver problemas e criar soluções úteis <br>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias que estou aprendendo
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+</p>
+
+---
+
+### 📊 Estatísticas GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Picciutti&show_icons=true&theme=gotham&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Picciutti&layout=compact&theme=gotham"/>
+</p>
+
+---
+
+### 🌐 Onde me encontrar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/victor-picciutti-dos-santos-87841532a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="victorpicciuttidossantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### ⚡ Curiosidade
+
+Sou calmo, responsável, curioso e trabalho bem em equipe. Sempre buscando entender o porquê das coisas e evoluir como pessoa e profissional.
+
+![Snake animation](https://raw.githubusercontent.com/Victor-Picciutti/Victor-Picciutti/output/github-contribution-grid-snake.svg)
+
+
