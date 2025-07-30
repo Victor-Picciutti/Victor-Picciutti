@@ -24,8 +24,8 @@
 ### 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Picciutti&show_icons=true&theme=gotham&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Picciutti&layout=compact&theme=gotham"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Victor-Picciutti&show_icons=true&theme=gotham&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Picciutti&layout=compact&theme=gotham"/>
 </p>
 
 ---
@@ -43,7 +43,7 @@
 
 Sou calmo, responsável, curioso e trabalho bem em equipe. Sempre buscando entender o porquê das coisas e evoluir como pessoa e profissional.
 
-![Snake animation](https://raw.githubusercontent.com/Victor-Picciutti/Victor-Picciutti/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
 
 
 
