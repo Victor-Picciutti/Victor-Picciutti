@@ -43,6 +43,7 @@
 
 Sou calmo, responsável, curioso e trabalho bem em equipe. Sempre buscando entender o porquê das coisas e evoluir como pessoa e profissional.
 
-![Snake animation](https://raw.githubusercontent.com/Victor-Picciutti/Victor-Picciutti/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Victor-Picciutti/Victor-Picciutti/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
 
 
