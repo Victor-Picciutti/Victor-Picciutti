@@ -2,9 +2,7 @@
 <h1 align="center">Oi! Eu sou o Victor 👋</h1>
 
 <p align="center">
-  🔍 Estudante de desenvolvimento com foco em C# <br>
-  🎯 Buscando oportunidades como Jovem Aprendiz ou Estagiário em tecnologia <br>
-  🚀 Apaixonado por aprender, resolver problemas e criar soluções úteis <br>
+  https://preview--cv-transformador-digital.lovable.app
 </p>
 
 ---
