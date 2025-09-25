@@ -1,9 +1,7 @@
 <!-- Banner opcional -->
 <h1 align="center">Oi! Eu sou o Victor 👋</h1>
 
-<p align="center">
-  https://preview--cv-transformador-digital.lovable.app
-</p>
+
 
 ---
 
